@@ -1,0 +1,4 @@
+token     = "your_oauth_token"
+cloud_id  = "your_cloud_id"
+folder_id = "your_folder_id"
+bucket_name = "your-bucket-name-kms"
